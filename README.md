@@ -8,4 +8,4 @@ Project is part of Introduction-to-communication-networks course.
 3. Watch List
 4. Browse, search, and manage your movies watch list
 
-Make sure relative Express & node module packages and installed locally on your device to run smoothly
+Make sure relative Express & node module packages are installed locally on your device to run smoothly
